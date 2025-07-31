@@ -78,4 +78,3 @@ Setiap file JSON berisi daftar seperti ini:
 ---
 
 Dibangun menggunakan [Qdrant](https://qdrant.tech), [Sentence-Transformers](https://www.sbert.net), dan Python.  
-Silakan fork dan sesuaikan untuk pipeline RAG, pencarian dokumen, atau QA sistem milikmu!
